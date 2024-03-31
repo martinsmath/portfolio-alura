@@ -16,6 +16,6 @@ Olá, Bem vindo ao meu projeto portfólio estudando com a Alura.
 
 ### Matheus Martins
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/matheus-martins-9014a4211/
 
 ```
